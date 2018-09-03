@@ -1,4 +1,4 @@
-# mobile_as_controller
+# MOBILE_AS_WIRELESS_GESTURE_CONTROLLER
 Since everyone cannot afford to buy a controller for gaming purposes. This project aims to provide free game controllers. Where any android 
 phone can be converted into wireless gesture controlled gaming controller.
 
