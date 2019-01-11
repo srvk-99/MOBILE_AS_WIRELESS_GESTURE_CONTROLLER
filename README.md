@@ -8,4 +8,4 @@ This whole project consist of an APK file named SENSOR UDP(The creator of the th
 
 So this consist of an apk file which sends accelerometer data from phone to the computer through UDP packets.And on the computer there's a python script running which takes in the accelerometer data and converts them into desired output for the game.
 
-THIS WAS A GROUP PROJECT DONE WITH MY FRIEND SIDDHARTH L.H
+
